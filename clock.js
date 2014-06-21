@@ -26,7 +26,7 @@ function SGXPrepare_OS() {
 
 function SGXinit() {
 
-	clockFaceTexture = sgx.graphics.TextureManager.get().loadTexture("clockface");
+	clockFaceTexture = sgx.graphics.TextureManager.get().load("clockface");
 }
 
 function SGXstart() {
