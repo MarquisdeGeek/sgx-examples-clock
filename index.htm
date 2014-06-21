@@ -1,0 +1,26 @@
+<html>
+<title></title>
+<head>
+	<meta http-equiv="content-script-type" content="text/javascript">
+	<link href="canvas.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+<div align="center" id="game_screen">
+	<canvas id="SGXCanvas" width="200" height="200">
+		This browser does not support the HTML5 Canvas.
+	</canvas>
+</div>
+<p>
+<p>HTML5 Clock example, using the SGX Engine.</p>
+<p>Note the use of transform matrices to rotate the graphics.</p>
+
+
+<script type="text/javascript" src="http://sgxengine.com/code/sgx/sgx-3.1.1.min.js"></script>
+<script type="text/javascript" src="clock.js"></script>
+<script type="text/javascript">
+window.onload = SGXPrepare_OS;
+</script>
+
+</body>
+</html>

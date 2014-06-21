@@ -1,0 +1,126 @@
+{"texture":[
+{
+  "attributes":{
+}
+}
+,
+{"region":[
+{
+  "attributes":{
+"name":"face"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"0"
+,
+"v":"0"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"200"
+,
+"v":"200"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"r2"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"216"
+,
+"v":"0"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"230"
+,
+"v":"100"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"r3"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"232"
+,
+"v":"0"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"246"
+,
+"v":"100"
+}
+}
+]}
+]}
+,
+{"region":[
+{
+  "attributes":{
+"name":"r3"
+,
+"units":"pixels"
+}
+}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"244"
+,
+"v":"0"
+}
+}
+]}
+,
+{"uv":[
+{
+  "attributes":{
+"u":"256"
+,
+"v":"100"
+}
+}
+]}
+]}
+]}
